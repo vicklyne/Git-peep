@@ -1,0 +1,17 @@
+
+.body{
+  background-color:purple  ;
+}
+h1 {
+  color: cyan;
+}
+.follow {
+  text-align: right;
+  color: DodgerBlue;
+  font-family: verdana;
+   font-size: 20px;
+}
+.btn {
+  color: DodgerBlue;
+  background-color: #4CAF50;
+}
